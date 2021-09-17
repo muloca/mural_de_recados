@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "942824883887",
+    "firebase_url": "https://mural-recados-8121c.firebaseio.com",
+    "project_id": "mural-recados-8121c",
+    "storage_bucket": "mural-recados-8121c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942824883887:android:c284c85299f242466e365a",
+        "android_client_info": {
+          "package_name": "com.mlcdigital.mural_de_recados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942824883887-l3o21r7ug7houqcivp9a3pb5id70j454.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mlcdigital.mural_de_recados",
+            "certificate_hash": "78c245fa662c8e240a83c16d88443cd3ddf32412"
+          }
+        },
+        {
+          "client_id": "942824883887-u50bk16qo02gont7q5balc03vfe8lf86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLMaBCMUgnpXTqmpgPTfKRddSflbrpLPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942824883887-u50bk16qo02gont7q5balc03vfe8lf86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
